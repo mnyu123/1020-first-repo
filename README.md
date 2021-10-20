@@ -3,3 +3,6 @@
 
 # this comment is 'newtest1' branch write
 ## and merge master branch 
+
+### this line clone repo.
+# next is pullrequest & Fork
